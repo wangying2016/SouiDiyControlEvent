@@ -32,6 +32,9 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TestControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="SouiDiyControlEvent.rc">
@@ -46,6 +49,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TestControl.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -68,6 +74,9 @@
       <Filter>SoUI Resouece</Filter>
     </Xml>
     <Xml Include="uires\xml\dlg_main.xml">
+      <Filter>SoUI Resouece</Filter>
+    </Xml>
+    <Xml Include="uires\xml\test_control.xml">
       <Filter>SoUI Resouece</Filter>
     </Xml>
   </ItemGroup>

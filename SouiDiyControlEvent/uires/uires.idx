@@ -4,17 +4,18 @@
   </UIDEF>
   <LAYOUT>
     <file name="XML_MAINWND" path="xml\dlg_main.xml"/>
-      </LAYOUT>
-  
+    <file name="test_control" path="xml\test_control.xml"/>
+  </LAYOUT>
+
   <values>
-  	<file name="string" path="values\string.xml"/>
-  	<file name="color" path="values\color.xml"/>
-  	<file name="skin" path="values\skin.xml"/>
+    <file name="string" path="values\string.xml"/>
+    <file name="color" path="values\color.xml"/>
+    <file name="skin" path="values\skin.xml"/>
   </values>
 
   <IMG>
-          </IMG>
+  </IMG>
   <ICON>
     <file name="ICON_LOGO"  path="image\soui.ico"/>
   </ICON>
-    </resource>
+</resource>

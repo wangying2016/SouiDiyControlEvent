@@ -1,0 +1,6 @@
+<testcontrol>
+  <window pos="0,0,-0,-0" colorBkgnd="#999999">
+    <button pos="10,|,@90,@30" offset="0,-0.5" name="btn_1">按钮1</button>
+    <button pos="[20,{,@90,@30" name="btn_2">按钮2</button>
+  </window>
+</testcontrol>
